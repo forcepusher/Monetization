@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.bananaparty.monetization": {
+      "version": "file:com.bananaparty.monetization",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "7.0.11",
       "depth": 1,

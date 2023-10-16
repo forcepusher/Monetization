@@ -1,0 +1,8 @@
+{
+  "name": "com.bananaparty.monetization",
+  "version": "1.0.0",
+  "type": "library",
+  "displayName": "Monetization",
+  "unity": "2021.3",
+  "description": "Monetization package for Yandex Games."
+}
